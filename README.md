@@ -1,5 +1,4 @@
 # ecChronos
-[![build](https://travis-ci.org/Ericsson/ecchronos.svg?branch=master)](https://travis-ci.org/Ericsson/ecchronos)
 [![coverage](https://coveralls.io/repos/github/Ericsson/ecchronos/badge.svg?branch=master)](https://coveralls.io/github/Ericsson/ecchronos?branch=master)
 [![maven central](https://img.shields.io/maven-central/v/com.ericsson.bss.cassandra.ecchronos/ecchronos-binary.svg?label=maven%20central)](https://search.maven.org/search?q=g:%22com.ericsson.bss.cassandra.ecchronos%22%20AND%20a:%22ecchronos-binary%22)
 
@@ -18,6 +17,8 @@ The interval is configurable but defaults to seven days.
 
 More details on the underlying infrastructure can be found in [ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
+More information on the REST interface of ecChronos is described in [REST.md](docs/REST.md).
+
 ### Prerequisites
 
 * JDK8
@@ -32,7 +33,7 @@ Upgrade instructions can be found in [UPGRADE.md](docs/UPGRADE.md).
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, development, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of conduct, development, and the process for submitting pull requests to us.
 
 ## Versioning
 
